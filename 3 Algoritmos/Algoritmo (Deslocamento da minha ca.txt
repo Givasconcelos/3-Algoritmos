@@ -1,0 +1,73 @@
+Algoritmo (Deslocamento da minha casa até o Senac)
+
+Início
+-Abro o portão
+-Saio de casa
+-Fecho o portão
+-Vou em direção ao caminho
+-Faço o caminho da minha casa até a estação
+-Chegando na estação pego o bilhete
+-Chego na estação
+-Entro
+-Passo pela catraca
+-Viro a direita
+-Subo a escada rolante
+-Espero o metro na plataforma
+-O metro chega e para
+-Entro no metro
+-Se achar lugar eu sento
+senao
+-Fico em pé
+-Espero passar as estações até chegar na próxima que irei descer
+-O metro chega na estação Santa Cruz
+-Levanto 
+senao
+-Saio do metro
+-Vou em direção a linha azul
+-Continuo reto até a escada rolante
+-Subo a escada rolante
+-Viro a direita 
+-Ando cerca de 20 metros até a próxima escada rolante
+-Viro a direita
+-Subo a próxima escada rolante
+-Viro a direita
+-E subo outra escada
+-Viro a direita
+-Subo outra escada
+-Viro a direita 
+-E ando cerca de 15 metros até outra escada rolante
+-Viro a direita
+-Ando uns 4 metros
+-Subo outra escada rolante
+-Espero pelo trem sentido tucuruvi na plataforma
+-trem chega
+-Entro no trem
+-Sento
+senao
+-Fico em pé aguardando para descer em outra estação
+-O trem chega na estação da Luz
+-Levanto
+senao
+-Desço do trem
+-Subo a escada
+-Ando em direção a linha rubi
+-Subo a escada rolante
+-Viro a esquerda
+-Espero o trem na plataforma
+-Trem chega
+-Eu entro
+-Sento
+senao
+-Fico em pé
+-Aguardo chegar na estação Água Branca
+-Trem chega na Água Branca
+-Desça do trem
+-Viro a esquerda
+-Ando até a saida
+-Saindo eu viro a direita
+-Faço o caminho em direção ao Senac
+-Chego no Senac
+ 
+fimalgoritmo
+
+ 

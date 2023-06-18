@@ -1,0 +1,19 @@
+Algoritmo(Efetuar a troca de uma lâmpada que não está acendendo)
+
+Início
+-Estou no quarto quando a lâmpada queima
+-Verifico se não é problema no interruptor
+-Verifico se ela está quente
+-Apago a luz no interruptor
+-Subo na cama e desenrosco a lâmpada
+-Tiro a lampada
+-Desço do cama e coloco a lâmpada em cima da mesa
+-Vou até o ármario da cozinha
+-Pego uma lâmpada nova
+-Vou até o quarto
+-Subo na cama e enrosco a outra lâmpada
+-Dedço da cama
+-Ligo a luz
+-A lâmpada acendeu
+-Jogo a lâmpada velha no lixo com cuidado
+fimalgoritmo 

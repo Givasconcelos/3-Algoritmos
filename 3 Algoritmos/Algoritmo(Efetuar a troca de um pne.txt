@@ -1,0 +1,36 @@
+Algoritmo(Efetuar a troca de um pneu de um carro)
+
+Início
+-Carro está andando na via
+-O dono percebe que um pneu está com problemas
+-Pare o carro em um lugar seguro
+-Abra a porta do motorista
+-Desça do carro
+-vá até o porta malas
+-Abra o porta malas
+-Pegue o triângulo de sinalização
+-Coloque a sinalização
+-Verifique o pneu dianteiro esquerdo
+-Verifique o pneu dianteiro direito
+-Verifique o pneu traseiro esquerdo
+-Verifique o pneu traseiro direito
+-Encontra um furo no pneu traseiro direito
+-Vá até o porta malas
+-Pegue o estepe
+-Pegue o macaco
+-Pegue a chave de roda
+-Vá até o pneu furado
+-Afrouxe os parafusos
+-Pegue o macaco
+-Coloque o macaco em baixo do carro do lado do pneu furado
+-Levante o carro
+-Solte os parafusos
+-Tire a roda
+-Cololque sob o veículo
+-Coloque o estepe no lugar
+-Coloque os parafusos e prenda-os com as mãos
+-Faça o aperto inicial em sequencia de cruz/estrela
+-Desça o veículo com macaco
+-Faça o aperto final dos parafusos
+-Guarde no porta malas o macaco, a chave e o pneu
+fimalgoritmo
